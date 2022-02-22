@@ -12,3 +12,33 @@ h1 {
     font-size: 50px;
     font-weight: normal;
 }
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+}
+
+.link {
+    color: aquamarine;
+    text-decoration: underline;
+    font-size: 16px;
+}
+
+img {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+}
+
+.camp {
+    margin-bottom: 20px;
+}
+
+.copyright {
+    text-align: right;
+}
